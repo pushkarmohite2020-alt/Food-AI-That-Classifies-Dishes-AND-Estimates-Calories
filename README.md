@@ -1,0 +1,2 @@
+# Food-AI-That-Classifies-Dishes-AND-Estimates-Calories
+✔ Identifies 101 food categories (using Food-101 dataset) ✔ Estimates calorie content via nutritional mapping ✔ Processes images end-to-end with 72.1% validation accuracy 🔧 Built with TensorFlow &amp; optimized preprocessing pipeline 📊 Overcame class imbalance challenges in food data 🖼️ Implemented visualization of predictions + calorie estimates
